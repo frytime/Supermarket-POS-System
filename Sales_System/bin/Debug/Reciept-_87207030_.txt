@@ -1,0 +1,9 @@
+Date and Time: 12/12/2022 08:46:58
+List Number: 87207030
+
+Employees
+-----------------------------------------------------
+
+Employee:1
+Employee ID: 1  First Name: Nasri  Last Name: Ibahim Job:  Manager
+-----------------------------------------------------

@@ -1,0 +1,8 @@
+Date and Time: 12/12/2022 08:40:58
+List Number: 69178834
+
+Employees
+-----------------------------------------------------
+
+Employee:1
+Employee ID: Nasri  First Name: Bristol  Last Name: Ibahim Job:  Manager

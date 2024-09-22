@@ -1,0 +1,12 @@
+Date and Time: 12/12/2022 08:43:53
+List Number: 54583078
+
+Employees
+-----------------------------------------------------
+
+Employee:1
+Employee ID: Nasri  First Name: Bristol  Last Name: Ibahim Job:  Manager
+-----------------------------------------------------
+Employee:2
+Employee ID:   First Name:   Last Name:  Job:  
+-----------------------------------------------------

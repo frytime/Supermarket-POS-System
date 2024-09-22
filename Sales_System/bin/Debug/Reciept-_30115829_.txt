@@ -1,0 +1,20 @@
+Date and Time: 06/11/2022 11:01:00
+Reciept Number: 30115829
+
+Customer: Abdikarim
+
+Products:
+-----------------------------------------------------
+
+Item:1
+Product Name: Cheese  Quantity: 5  Price: 2.50 Total Price:  12.5
+Item:2
+Product Name: Potato  Quantity: 1  Price: 1.00 Total Price:  1
+
+-----------------------------------------------------
+Subtotal: 13.5
+Tax: 0.49
+Total: 13.99
+
+Cash Tendered: 500
+Change: 486.014

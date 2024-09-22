@@ -1,0 +1,18 @@
+Date and Time: 07/11/2022 09:29:04
+Reciept Number: 46812594
+
+Customer: Nasri
+
+Products:
+-----------------------------------------------------
+
+Item:1
+Product Name: Potato  Quantity: 5  Price: 1.00 Total Price:  5
+
+-----------------------------------------------------
+Subtotal: 5
+Tax: 0.18
+Total: 5.18
+
+Cash Tendered: 50
+Change: 44.82

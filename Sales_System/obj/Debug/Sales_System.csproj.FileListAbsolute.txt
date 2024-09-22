@@ -1,0 +1,146 @@
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\Sales_System.exe.config
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\Sales_System.exe
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\Sales_System.pdb
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\MySql.Data.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\MySql.Web.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\Google.Protobuf.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\ZstdNet.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\System.Memory.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\System.Buffers.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\MySql.Data.xml
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\nasri\source\repos\Sales_System\bin\Debug\MySql.Web.xml
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.csproj.AssemblyReference.cache
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.exe.config
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.csproj.GenerateResource.cache
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.csproj.CoreCompileInputs.cache
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.csproj.CopyComplete
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.exe
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.pdb
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.MenuForm.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Users.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Employees.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Products.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Customers.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Information.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Orders.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Sales.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Login.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Calculator.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Settings.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Suppliers.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Licences.resources
+C:\Users\nasri\source\repos\Sales_System\obj\Debug\Sales_System.Till.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\Sales_System.exe.config
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\Sales_System.exe
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\Sales_System.pdb
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\MySql.Data.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\MySql.Web.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\Google.Protobuf.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\ZstdNet.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Memory.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Buffers.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\MySql.Data.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\MySql.Web.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.AssemblyReference.cache
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Calculator.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Customers.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Employees.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Licences.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Login.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Information.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.MenuForm.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Orders.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Products.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Sales.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Suppliers.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Till.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Users.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.GenerateResource.cache
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.CoreCompileInputs.cache
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.CopyComplete
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.exe
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.pdb
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\MySqlBackup.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\Google.Protobuf.pdb
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\Google.Protobuf.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Buffers.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Memory.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\obj\Debug\Sales_System.Backup.resources
+C:\Users\nasri\Downloads\Source Code-20230113T071444Z-001\Source Code\Model 7.0\Sales_System\bin\Debug\DotNetProjects.Wpf.Extended.Toolkit.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\Sales_System.exe.config
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\Sales_System.exe
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\Sales_System.pdb
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\DotNetProjects.Wpf.Extended.Toolkit.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\Google.Protobuf.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\MySql.Data.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\MySql.Web.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\MySqlBackup.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Buffers.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Memory.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\ZstdNet.dll
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\Google.Protobuf.pdb
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\Google.Protobuf.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\MySql.Data.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\MySql.Web.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Buffers.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Memory.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.AssemblyReference.cache
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Calculator.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Customers.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Employees.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Backup.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Licences.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Login.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Information.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.MenuForm.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Orders.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Products.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Properties.Resources.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Sales.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Suppliers.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.Users.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.GenerateResource.cache
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.CoreCompileInputs.cache
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.csproj.CopyComplete
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.exe
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.pdb
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.EmployeeTill.resources
+C:\Users\nasri\Downloads\Cashar\Model 7.0\Sales_System\obj\Debug\Sales_System.SignUp.resources

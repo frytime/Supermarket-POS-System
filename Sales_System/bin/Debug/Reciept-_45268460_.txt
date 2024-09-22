@@ -1,0 +1,18 @@
+Date and Time: 06/11/2022 10:48:48
+Reciept Number: 45268460
+
+Customer: Abdi
+
+Products:
+-----------------------------------------------------
+
+Item:0
+Product Name: Cheese Quantity: 5 Price: 2.50 Total Price: 12.5
+
+-----------------------------------------------------
+Subtotal: 12.5
+Tax: 0.45
+Total: 12.95
+
+Cash Tendered: 500
+Change: 487.05

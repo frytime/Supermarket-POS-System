@@ -1,0 +1,20 @@
+Date and Time: 12/11/2022 20:29:23
+Reciept Number: 28962985
+
+Customer: Nasri
+
+Products:
+-----------------------------------------------------
+
+Item:1
+Product Name: Cheese  Quantity: 1  Price: 2.50 Total Price:  2.5
+Item:2
+Product Name: Potato  Quantity: 2  Price: 1.00 Total Price:  2
+
+-----------------------------------------------------
+Subtotal: 4.5
+Tax: 0.16
+Total: 4.66
+
+Cash Tendered: 500
+Change: 495.34
